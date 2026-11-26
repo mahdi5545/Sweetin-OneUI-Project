@@ -1,0 +1,54 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Operating system
+.DS_Store
+Thumbs.db
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Private device data and downloaded firmware
+firmware/
+donors/
+logs/
+work/
+device/sweetin/
+
+# Large firmware and binary artifacts
+*.img
+*.bin
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.apk
+*.apks
+*.aab
+*.so
+*.dtbo
+*.new.dat
+*.new.dat.br
